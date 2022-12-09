@@ -1,0 +1,68 @@
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.nav-item {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #fcbb3a !important;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover {
+    color: #fcbb3a !important;
+}
+
+/* Mini Series */
+.section-title {
+    margin-top: 55px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+
+    color: #000000;
+}
+
+.component-product:hover {
+    margin-top: 50px;
+    text-decoration: none;
+    transform: scale(1.1);
+
+    transition: all 0,2s ease ease-in-out;
+}
+
+.product-img {
+    margin-top: 15px;
+    background: #f6fafd;
+
+    transition: all 0,3s ease;
+}
+
+.product-text {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #000000;
+}
+.product-price {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #F73232;
+}
+/* Tutup Mini Series */

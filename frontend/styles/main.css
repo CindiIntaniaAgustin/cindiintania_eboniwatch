@@ -1,0 +1,147 @@
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.nav-item {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #fcbb3a !important;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover {
+    color: #fcbb3a !important;
+}
+
+/* Hero Section */
+.hero-section {
+    margin-top: 42px;
+}
+
+.hero-section h1 {
+    margin-top: 42px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 52px;
+}
+
+.hero-section .btn-cta {
+    margin-top: 75px;
+}
+
+.hero-section .btn {
+    margin-left: 15px;
+}
+
+.hero-section .btn-cta .img {
+    width: 67px;
+}
+/* Akhir Hero Section */
+
+/* Description */
+.description-text {
+    margin-top: 58px;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Tutup Description */
+
+/* Best Seller */
+.section-title {
+    margin-top: 55px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 34px;
+
+    color: #000000;
+}
+
+.component-product:hover {
+    margin-top: 50px;
+    text-decoration: none;
+    transform: scale(1.1);
+
+    transition: all 0,2s ease ease-in-out;
+}
+
+.product-img {
+    margin-top: 15px;
+    background: #f6fafd;
+
+    transition: all 0,3s ease;
+}
+
+.product-text {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #000000;
+}
+.product-price {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #F73232;
+}
+/* Tutup Best Seller */
+
+/* Tampilkan Semua */
+.tampilkan-semua {
+    margin-top: 75px;
+    font-weight: 700;
+    font-size: 86px;
+    text-align: center;
+
+}
+/* Tutup Tampilkan Semua */
+
+/* Footer */
+.footer {
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #F9E4CC;
+
+    color: #000000;
+}
+
+.footer-small {
+    background-color: #520425;
+    text-align: center;
+}
+
+.footer-small p {
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 16px;
+
+    margin-top: 30px;
+
+    color: #f6fafd;
+}
+
+.footer-small a {
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+
+    color: #F73232;
+}
+/* Tutup Footer */
